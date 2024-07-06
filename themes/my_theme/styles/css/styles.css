@@ -1,0 +1,6 @@
+/* Header styles */
+@import url(layout/header.css);
+/* General styles*/
+@import url(global.css);
+/*Persona*/
+@import url(pages/persona.css);
